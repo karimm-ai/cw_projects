@@ -1,3 +1,3 @@
 # cw_projects
 
-A list of first attempts individual & group college projects.
+A collection of first attempts individual & group college projects.
